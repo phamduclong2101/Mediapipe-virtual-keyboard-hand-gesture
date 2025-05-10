@@ -23,3 +23,9 @@ To install the required libraries, you can create a virtual environment and inst
 
 ```bash
 pip install -r requirements.txt
+```
+
+```bash
+python3 main.py
+```
+
